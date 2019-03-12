@@ -2,7 +2,7 @@ package models;
 
 import java.util.Arrays;
 
-public class Card {
+public abstract class Card {
 
     private Titular titular;
     private Tranzactie[] tranzactii;
@@ -40,4 +40,6 @@ public class Card {
                 ", sold=" + sold +
                 '}';
     }
+
+    public abstract void adaugaTranzactie(Tranzactie tranzactie);
 }
