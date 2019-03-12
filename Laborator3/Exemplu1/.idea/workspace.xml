@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ae22f94-0253-4ff9-9d7a-79bff5717cbe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Alocare_proiecte.pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Laborator2Example/CardExample/src/models/CardCredit.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Laborator2Example/CardExample/src/models/CardDebit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exemplu1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Exemplu1/clase/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Exemplu1/clase/Caine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Exemplu1/clase/Pisica.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Exemplu1/main/Main.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/clase/Animal.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/clase/Caine.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/clase/Pisica.java" afterDir="false" />
@@ -71,7 +81,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/clase/Caine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
+            <state relative-caret-position="331">
               <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
               <folding>
                 <element signature="e#91#92#0" expanded="true" />
@@ -121,7 +131,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-404" />
     <option name="y" value="25" />
     <option name="width" value="2430" />
@@ -156,7 +166,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552412635170" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552412702952" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -204,7 +214,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -220,7 +230,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39660057" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39660057" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -296,7 +306,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/clase/Caine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
+        <state relative-caret-position="331">
           <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding>
             <element signature="e#91#92#0" expanded="true" />

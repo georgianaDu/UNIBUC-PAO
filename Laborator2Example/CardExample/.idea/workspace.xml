@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="770ebb07-9225-47e7-ab95-16629c64b1db" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Alocare_proiecte.pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/models/CardCredit.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/models/CardDebit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Laborator3/Exemplu1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Laborator3/Exemplu1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Laborator3/Exemplu1/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Laborator3/Exemplu1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Laborator3/Exemplu1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Laborator3/Exemplu1/Exemplu1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Laborator3/Exemplu1/out/production/Exemplu1/clase/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Laborator3/Exemplu1/out/production/Exemplu1/clase/Caine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Laborator3/Exemplu1/out/production/Exemplu1/clase/Pisica.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Laborator3/Exemplu1/out/production/Exemplu1/main/Main.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Laborator3/Exemplu1/src/clase/Animal.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Laborator3/Exemplu1/src/clase/Caine.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Laborator3/Exemplu1/src/clase/Pisica.java" afterDir="false" />
@@ -50,20 +60,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/models/CardDebit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="9" column="53" lean-forward="true" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+            <state relative-caret-position="403">
+              <caret line="19" column="9" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="19" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/models/CardCredit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="322">
+              <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -112,8 +122,8 @@
         <option value="$PROJECT_DIR$/src/main/Main.java" />
         <option value="$PROJECT_DIR$/src/services/ServiciuTranzactii.java" />
         <option value="$PROJECT_DIR$/src/models/Card.java" />
-        <option value="$PROJECT_DIR$/src/models/CardCredit.java" />
         <option value="$PROJECT_DIR$/src/models/CardDebit.java" />
+        <option value="$PROJECT_DIR$/src/models/CardCredit.java" />
       </list>
     </option>
   </component>
@@ -123,7 +133,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-404" />
     <option name="y" value="25" />
     <option name="width" value="2430" />
@@ -166,7 +176,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552412635126" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552413221337" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -223,8 +233,7 @@
     <option name="totallyTimeSpent" value="27000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -236,7 +245,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24220963" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24220963" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -291,13 +300,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/models/CardCredit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/services/ServiciuTranzactii.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -310,8 +312,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/models/CardDebit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="9" column="53" lean-forward="true" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+        <state relative-caret-position="403">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/CardCredit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
         </state>
       </provider>
     </entry>
