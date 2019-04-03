@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="770ebb07-9225-47e7-ab95-16629c64b1db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Alocare_proiecte.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/CardCredit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/CardDebit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Laborator3/Exemplu1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Laborator3/Exemplu1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Laborator3/Exemplu1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Laborator3/Exemplu1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Laborator3/Exemplu1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Laborator3/Exemplu1/Exemplu1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Laborator3/Exemplu1/out/production/Exemplu1/clase/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Laborator3/Exemplu1/out/production/Exemplu1/clase/Caine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Laborator3/Exemplu1/out/production/Exemplu1/clase/Pisica.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Laborator3/Exemplu1/out/production/Exemplu1/main/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Laborator3/Exemplu1/src/clase/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Laborator3/Exemplu1/src/clase/Caine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Laborator3/Exemplu1/src/clase/Pisica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Laborator3/Exemplu1/src/main/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CardExample/services/ServiciuTranzactii.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CardExample/services/ServiciuTranzactii.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/ServiciuTranzactii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/ServiciuTranzactii.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/models/Titular.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+            <state relative-caret-position="585">
+              <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -54,26 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/models/Card.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="43" column="65" selection-start-line="43" selection-start-column="65" selection-end-line="43" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/models/CardDebit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="19" column="9" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="19" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/models/CardCredit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+            <state relative-caret-position="891">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
@@ -81,8 +43,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/services/ServiciuTranzactii.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="23" selection-end-column="9" />
+            <state relative-caret-position="216">
+              <caret line="9" column="5" selection-start-line="27" selection-start-column="54" selection-end-line="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,7 +55,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
+            <state relative-caret-position="243">
               <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -134,10 +96,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-404" />
+    <option name="x" value="-405" />
     <option name="y" value="25" />
     <option name="width" value="2430" />
-    <option name="height" value="1103" />
+    <option name="height" value="1105" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -146,38 +108,13 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="CardExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CardExample" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CardExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CardExample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CardExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CardExample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552413221337" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Disertatie/electronic-wallet" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -209,11 +146,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -226,26 +158,26 @@
       <option name="presentableId" value="Default" />
       <updated>1551805608117</updated>
       <workItem from="1552402956034" duration="27000" />
+      <workItem from="1554128384683" duration="21000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27000" />
+    <option name="totallyTimeSpent" value="48000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24220963" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -269,10 +201,12 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/models/CardDebit.java" />
+    <entry file="file://$PROJECT_DIR$/src/models/CardCredit.java" />
     <entry file="file://$PROJECT_DIR$/src/models/Titular.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        <state relative-caret-position="585">
+          <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -283,44 +217,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/models/Card.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="43" column="65" selection-start-line="43" selection-start-column="65" selection-end-line="43" selection-end-column="65" />
+        <state relative-caret-position="891">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/services/ServiciuTranzactii.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="23" selection-end-column="9" />
+        <state relative-caret-position="216">
+          <caret line="9" column="5" selection-start-line="27" selection-start-column="54" selection-end-line="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/models/CardDebit.java">
+    <entry file="file://$PROJECT_DIR$/src/main/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="19" column="9" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/models/CardCredit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+        <state relative-caret-position="243">
+          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
