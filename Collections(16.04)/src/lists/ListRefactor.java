@@ -3,7 +3,7 @@ package lists;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class ListTypes {
+public class ListRefactor {
 
     List<String> stringList = new ArrayList<>();
     String[] str = {"1", "2"};

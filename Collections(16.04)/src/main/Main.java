@@ -1,8 +1,6 @@
 package main;
 
-import lists.ListTypes;
-
-import java.util.LinkedList;
+import lists.ListRefactor;
 
 public class Main {
 
@@ -28,6 +26,6 @@ public class Main {
 //        linkedList.isEmpty();
 //        linkedList.contains("3");
 
-        ListTypes.workWithCard();
+        ListRefactor.workWithCard();
     }
 }
