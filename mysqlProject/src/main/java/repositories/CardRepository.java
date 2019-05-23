@@ -4,6 +4,7 @@ import connectivity.DatabaseConnection;
 import models.Card;
 
 import java.sql.PreparedStatement;
+import java.sql.ResultSet;
 import java.sql.SQLException;
 
 public class CardRepository {
@@ -22,5 +23,30 @@ public class CardRepository {
         } catch (SQLException e) {
             e.printStackTrace();
         }
+    }
+
+    public Card getCardByOwner(String owner) {
+        Card card = new Card();
+
+        try {
+            PreparedStatement statement = connection.getConnection().
+                    prepareStatement("SELECT * FROM card WHERE OWNER = ?");
+           statement.setString(1, owner);
+
+            ResultSet resultSet = statement.executeQuery();
+
+            while (resultSet.next()) {
+                System.out.println(resultSet.getInt("id"));
+
+                card.setId(resultSet.getInt("ID"));
+                card.setOwner(resultSet.getString("OWNER"));
+                card.setBalance(resultSet.getDouble("BALANCE"));
+            }
+
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+
+        return card;
     }
 }

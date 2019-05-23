@@ -14,14 +14,16 @@ public class TransactionRepository {
     private DatabaseConnection connection =
             DatabaseConnection.getInstance();
 
-    public void saveTransaction(Transaction transaction) {
+    public void saveTransaction(Transaction transaction, int cardId) {
         try {
             PreparedStatement statement = connection.getConnection()
                     .prepareStatement("INSERT INTO transaction VALUES(NULL,?,?,?)");
 
             statement.setString(1, transaction.getMerchant());
             statement.setDouble(2, transaction.getAmount());
-            statement.setInt(3, 1);
+
+            statement.setInt(3, cardId);
+
 
             statement.executeUpdate();
 

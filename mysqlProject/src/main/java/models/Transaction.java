@@ -1,6 +1,6 @@
 package models;
 
-public class Transaction {
+public class Transaction implements Comparable {
 
     private String merchant;
     private double amount;
@@ -37,5 +37,12 @@ public class Transaction {
                 ", amount=" + amount +
                 ", card=" + card +
                 '}';
+    }
+
+
+    @Override
+    public int compareTo(Object o) {
+        Transaction transaction = (Transaction) o;
+        return Double.compare(this.getAmount(), transaction.getAmount());
     }
 }
